@@ -1,7 +1,6 @@
 
 # Laboratory 2: Basic Data Cleaning and Visualization of the Titanic Dataset
 
-## Course: COSC 110 – Introduction to Computing  
 ## Lab Title: Basic Data Cleaning and Visualization of Titanic Dataset  
 
 ## Objective:
@@ -67,4 +66,4 @@ This lab introduces foundational techniques in cleaning and preparing real-world
 
 ## Author:
 *Edilaine Dizon*  
-*COSC 110 - Laboratory 3*
+*COSC 110 - Laboratory 2*
