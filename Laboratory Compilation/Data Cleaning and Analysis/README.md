@@ -1,3 +1,4 @@
+
 # Laboratory 2: Basic Data Cleaning and Visualization of the Titanic Dataset
 
 ## Course: COSC 110 – Introduction to Computing  
@@ -24,10 +25,10 @@ We used the **Titanic dataset** from [Kaggle](https://www.kaggle.com/c/titanic/d
 The dataset is first loaded into the workspace using Pandas. This allows for easy manipulation and analysis of the data.
 
 ### 🧠 Step 2: Understand the Data
-Students explore the dataset's structure using functions that describe the types of data in each column, provide statistical summaries, and reveal the dataset's overall shape and features. Identifying data types and unusual formats is part of this step.
+Explore the dataset's structure using functions that describe the types of data in each column, provide statistical summaries, and reveal the dataset's overall shape and features. Identifying data types and unusual formats is part of this step.
 
 ### 🔎 Step 3: Check for Missing Values
-Students identify which columns contain missing values and how many are present. This step is essential to determine how the missing data should be handled in the next phase.
+Identify which columns contain missing values and how many are present. This step is essential to determine how the missing data should be handled in the next phase.
 
 ### 🛠 Step 4: Handle Missing Values
 Missing values are addressed using different strategies:
@@ -39,12 +40,6 @@ This step ensures that no redundant or repeated data exists in the dataset. Dupl
 
 ### 🏷 Step 6: Fix Data Types
 Columns representing categories (such as survival status or class) are converted to categorical data types to improve data management and reduce memory usage.
-
-### ✏️ Step 7: Standardize Column Names
-Column names are cleaned by converting them all to lowercase. This ensures consistency and avoids errors due to case sensitivity in future processing steps.
-
-### 💾 Step 8: Save the Cleaned Dataset
-After cleaning, the dataset is saved to a new CSV file, which can be used for further analysis or modeling in future labs.
 
 ---
 
@@ -72,5 +67,4 @@ This lab introduces foundational techniques in cleaning and preparing real-world
 
 ## Author:
 *Edilaine Dizon*  
-*COSC 110 - Laboratory 2*
-
+*COSC 110 - Laboratory 3*
