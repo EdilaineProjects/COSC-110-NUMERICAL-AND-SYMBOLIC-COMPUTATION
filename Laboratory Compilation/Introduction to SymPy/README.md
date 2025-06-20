@@ -41,12 +41,6 @@ This step ensures that no redundant or repeated data exists in the dataset. Dupl
 ### 🏷 Step 6: Fix Data Types
 Columns representing categories (such as survival status or class) are converted to categorical data types to improve data management and reduce memory usage.
 
-### ✏️ Step 7: Standardize Column Names
-Column names are cleaned by converting them all to lowercase. This ensures consistency and avoids errors due to case sensitivity in future processing steps.
-
-### 💾 Step 8: Save the Cleaned Dataset
-After cleaning, the dataset is saved to a new CSV file, which can be used for further analysis or modeling in future labs.
-
 ---
 
 ## Basic Data Visualizations
